@@ -1,4 +1,6 @@
 # SE_TrafficManagementSimulator
 
 ## Contributors :
-* Aria Radmehr
+
+- Aria Radmehr
+- Fateme Hanifi
